@@ -1,0 +1,20 @@
+C:\Users\marse\Desktop\PaymentSchedule-master\PaymentSchedule\bin\Debug\PaymentSchedule.exe.config
+C:\Users\marse\Desktop\PaymentSchedule-master\PaymentSchedule\bin\Debug\PaymentSchedule.exe
+C:\Users\marse\Desktop\PaymentSchedule-master\PaymentSchedule\bin\Debug\PaymentSchedule.pdb
+C:\Users\marse\Desktop\PaymentSchedule-master\PaymentSchedule\obj\Debug\PaymentSchedule.csproj.AssemblyReference.cache
+C:\Users\marse\Desktop\PaymentSchedule-master\PaymentSchedule\obj\Debug\PaymentSchedule.Form1.resources
+C:\Users\marse\Desktop\PaymentSchedule-master\PaymentSchedule\obj\Debug\PaymentSchedule.Properties.Resources.resources
+C:\Users\marse\Desktop\PaymentSchedule-master\PaymentSchedule\obj\Debug\PaymentSchedule.csproj.GenerateResource.cache
+C:\Users\marse\Desktop\PaymentSchedule-master\PaymentSchedule\obj\Debug\PaymentSchedule.csproj.CoreCompileInputs.cache
+C:\Users\marse\Desktop\PaymentSchedule-master\PaymentSchedule\obj\Debug\PaymentSchedule.exe
+C:\Users\marse\Desktop\PaymentSchedule-master\PaymentSchedule\obj\Debug\PaymentSchedule.pdb
+C:\Users\marse\Desktop\кредитно-эпатечный калькулятор\PaymentSchedule\bin\Debug\PaymentSchedule.exe.config
+C:\Users\marse\Desktop\кредитно-эпатечный калькулятор\PaymentSchedule\bin\Debug\PaymentSchedule.exe
+C:\Users\marse\Desktop\кредитно-эпатечный калькулятор\PaymentSchedule\bin\Debug\PaymentSchedule.pdb
+C:\Users\marse\Desktop\кредитно-эпатечный калькулятор\PaymentSchedule\obj\Debug\PaymentSchedule.csproj.AssemblyReference.cache
+C:\Users\marse\Desktop\кредитно-эпатечный калькулятор\PaymentSchedule\obj\Debug\PaymentSchedule.Form1.resources
+C:\Users\marse\Desktop\кредитно-эпатечный калькулятор\PaymentSchedule\obj\Debug\PaymentSchedule.Properties.Resources.resources
+C:\Users\marse\Desktop\кредитно-эпатечный калькулятор\PaymentSchedule\obj\Debug\PaymentSchedule.csproj.GenerateResource.cache
+C:\Users\marse\Desktop\кредитно-эпатечный калькулятор\PaymentSchedule\obj\Debug\PaymentSchedule.csproj.CoreCompileInputs.cache
+C:\Users\marse\Desktop\кредитно-эпатечный калькулятор\PaymentSchedule\obj\Debug\PaymentSchedule.exe
+C:\Users\marse\Desktop\кредитно-эпатечный калькулятор\PaymentSchedule\obj\Debug\PaymentSchedule.pdb
